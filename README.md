@@ -1,8 +1,8 @@
-# node-python-websocket
+# azure-pubsub-node-python
 
 ## General Information
 
-Test project where we create a server with Node.js using Express.js and use a Python client to send live invoices using WebSockets.
+Test project where we created a server with Node.js using Express.js and used a Python client to send live invoices using WebSockets through the Azure service called Azure Web PubSub.
 
 ## Requirements
 
